@@ -7,8 +7,6 @@
 	Note : This script is fully self-contained. 
 	Simply place in ServerScriptService and run the game. It will automatically build the 
 	testing environment, spawn turrets, and generate targets to demonstrate its functionality.
-	
-	script made by zyth_galaxy
 ]]
 
 local RunService = game:GetService("RunService")
